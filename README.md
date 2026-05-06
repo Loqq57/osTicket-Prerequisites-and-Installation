@@ -42,9 +42,17 @@ Then you will navigate to "Virtual Machines" which can be simply typed in the se
 
 Now that we have navigated over to the virtual machines tab, lets take a look at how to properly set up a virtual machine within your resource group.
 
-<p></p>
+First click create and select "Virtual Machine"
+<p><img width="368" height="173" alt="image" src="https://github.com/user-attachments/assets/7fa05527-3d67-4b31-88dd-8e5ec15bd4ce" />
+</p>
 
+Make sure to select the resource group you would like to organize the VM into.
+<p><img width="750" height="259" alt="image" src="https://github.com/user-attachments/assets/84927cf2-1d22-4a4d-ab67-0b4c45beedc4" />
+</p>
 
+Next you will name your Virtual machine (Keep it related for organization purposes) and select a "Region" youd like to deploy your virtual machine from.
+<p><img width="766" height="563" alt="image" src="https://github.com/user-attachments/assets/23565cd1-3274-4dd1-9ec3-403497d28af1" />
+</p>
 
 
 
