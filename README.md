@@ -83,8 +83,22 @@ Storage
 Networking
 
 This is called Azure Hybrid Benefit
+<p><img width="772" height="201" alt="image" src="https://github.com/user-attachments/assets/2cfb8f60-e47c-4909-8801-7bc57a262824" />
+</p>
 
+Next we will click on the Network tab at the top to shift tabs into network settings.
+<p><img width="697" height="56" alt="image" src="https://github.com/user-attachments/assets/7312617c-fe7a-487a-9343-b69975f55712" />
 
+</p>
+
+You will keep your Virtual network the exact same as what you named it to begin with in the "Basics" tab.
+It should automatically be set.
+
+<p><img width="788" height="129" alt="image" src="https://github.com/user-attachments/assets/f5152910-2aa3-49f3-a7e5-e46fb1358522" />
+</p>
+
+<p><img width="819" height="142" alt="image" src="https://github.com/user-attachments/assets/2fa8e88b-4403-4e1d-9cc7-b2fe7fb393ef" />
+</p>
 
 
 
