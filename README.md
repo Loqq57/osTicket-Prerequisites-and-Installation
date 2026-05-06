@@ -94,13 +94,18 @@ Next we will click on the Network tab at the top to shift tabs into network sett
 You will keep your Virtual network the exact same as what you named it to begin with in the "Basics" tab.
 It should automatically be set.
 
+-Basics tab-
 <p><img width="788" height="129" alt="image" src="https://github.com/user-attachments/assets/f5152910-2aa3-49f3-a7e5-e46fb1358522" />
 </p>
 
+-Networking tab-
 <p><img width="819" height="142" alt="image" src="https://github.com/user-attachments/assets/2fa8e88b-4403-4e1d-9cc7-b2fe7fb393ef" />
 </p>
 
-
+Those are the basics needed to set up a Virtual machine. The other tabs arent neccessary for this lessons.
+At the bottom click Review + Create and give it a few minutes for your Virtual Machine to deploy!
+<p><img width="479" height="41" alt="image" src="https://github.com/user-attachments/assets/25ea82e9-1019-432e-bdce-c86438b43299" />
+</p>
 
 
 
