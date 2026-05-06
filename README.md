@@ -156,3 +156,9 @@ REMEMBER, As stated earlier this is a good example of why we keep record of our 
 </p>
 <p><img width="459" height="457" alt="image" src="https://github.com/user-attachments/assets/f036c830-7368-40ef-96b3-1c507ee55f0f" />
 </p>
+
+Click Yes
+<p><img width="408" height="480" alt="image" src="https://github.com/user-attachments/assets/1266a5a8-39ad-48e3-b9db-6bc9e1407004" />
+
+  
+</p>
