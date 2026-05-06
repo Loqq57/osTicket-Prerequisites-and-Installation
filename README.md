@@ -66,6 +66,7 @@ When you create a Virtual Machine (VM) in Microsoft Azure, the “size” you ch
 
 
 !IMPORTANT! When creating your Username and password for your VM, make sure to record or write down what your credentials are for later use. It is very easy to get confused when you have multiple VM's deployed. Keeping record of each one as well as its name and resource group can cut down on time searching or becoming lost in your own work.
+This is used to connect through Remote Desktop Connection (RPD)
 <p><img width="814" height="166" alt="image" src="https://github.com/user-attachments/assets/6cdafa5f-52a2-46af-b270-5c306e9e02b3" />
 </p>
 
@@ -133,6 +134,23 @@ As you can see I currently have 3 Virtual machines created. Two of which I am cu
 
 Next we will navigate to our Remote Desktop Protocol.
 In the start menu simply type Remote Desktop Connection and it will pop up.
+Click it and you will see the RDP program open up.
 <p><img width="386" height="929" alt="image" src="https://github.com/user-attachments/assets/671ee07c-5acd-403f-b558-b3feee62304a" />
 </p>
+<p><img width="404" height="241" alt="image" src="https://github.com/user-attachments/assets/bccfd42f-6a88-4a2d-8a8d-39627098834c" />
+</p>
+
+In your Remote Desktop Connection, Copy and Paste the PUBLIC IP from your Virtual Machine into the "Computer:" section.
+It should look something like this. (IP will Differ)
+<P><img width="402" height="239" alt="image" src="https://github.com/user-attachments/assets/90b7d458-561b-40d5-8592-ed21314c5641" />
+</P>
+
+Under that you will see "SHOW OPTIONS"
+This is where you will take your Username you created earlier within the Virtual Machine set up and put that in this section and click Connect.
+You will then be prompted for a password which will also be the password you had set in your virtual machine.
+REMEMBER, As stated earlier this is a good example of why we keep record of our Usernames, Passwords and assosiating VM's so we do not get mixed up.
 <br />
+<p><img width="402" height="480" alt="image" src="https://github.com/user-attachments/assets/2b3de0d8-ce46-4327-bb2f-5c2c854e457e" />
+</p>
+<p><img width="459" height="457" alt="image" src="https://github.com/user-attachments/assets/f036c830-7368-40ef-96b3-1c507ee55f0f" />
+</p>
