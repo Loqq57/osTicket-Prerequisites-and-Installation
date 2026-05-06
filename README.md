@@ -111,7 +111,12 @@ This is just a basic page upon validation with the information and pricing regar
 <p><img width="817" height="825" alt="image" src="https://github.com/user-attachments/assets/fdac9c5e-eb6b-4acb-81fb-0dfb9dd10a7f" />
 </p>
 
+Once Complete navigate back to your resource group and find your Virtual machine.
+<p><img width="1656" height="778" alt="image" src="https://github.com/user-attachments/assets/2f2f24dc-6b3d-4914-aaba-77dddf2ad9e4" />
+</p>
 
+To connect to your Virtual Machine through RDP (Remote Desktop Protocol) you will need your virtual machines PUBLIC IP.
+Click directly on your Virtual machine 
 
 
 <br />
