@@ -116,7 +116,13 @@ Once Complete navigate back to your resource group and find your Virtual machine
 </p>
 
 To connect to your Virtual Machine through RDP (Remote Desktop Protocol) you will need your virtual machines PUBLIC IP.
-Click directly on your Virtual machine 
+Click directly on your Virtual machine and scroll through the properties.
+You should find Public IP directly at the top.
+<p><img width="1656" height="778" alt="image" src="https://github.com/user-attachments/assets/7f31fb3b-17bc-400f-926a-4f034ed9780e" />
+</p>
+
+<p><img width="1348" height="653" alt="image" src="https://github.com/user-attachments/assets/66b7211a-69f2-4631-866a-ed42236476d7" />
+</p>
 
 
 <br />
