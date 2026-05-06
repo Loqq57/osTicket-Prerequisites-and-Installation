@@ -172,3 +172,13 @@ When finished you can simply close the connection by logging out, or by closing 
 Make sure when you are done using your virtual machines that you TURN THEM OFF.
 If kept running they will incur a cost. Whenever a Virtual machine is being used you pay for it the same way you'd pay an electrical bill.
 Pay-per-use. So do not leave anything running unless nessecary.
+
+
+
+-----
+Remote Destop protocal / Connection (RDP) is a great system used by every technician and IT department to fix issues without being physically present. It is also a great way to work remotly while still having access to your own files, programs, and systems on a seperate machine. 
+More indepth ways of using RDP and Virtual machines combined are with Domain Controllers and Active directory. 
+Virtual machines are commonly used to manage domain controllers for ease of access. Administrators are able to remotely connect from anywhere to make permission changes, fix user account, errors, or changes as well as creating snapshot backups incase something goes wrong for quick and easy restoration.
+
+Virtual Machines are a great way to reduce costs and resources by replacing the need for multiple physical computers. They help with ease of backups, cloning and system recovery
+Azure creates a great space to navigate any of your cloud computing needs and I urge you to check out more of the possibilities within Azure
